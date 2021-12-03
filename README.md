@@ -1,8 +1,8 @@
-# raylib-cpp-template
+# raylib-c-template
 
-Raylib 4.0 Template C++17 for Visual Studio Code & MinGW-w64
+Raylib 4.0 Template C (C17 64 bits) for Visual Studio Code & MinGW-w64
 
-## 1. Create environment variables
+## 1. Create environment variable
 **mingw64** : Mingw64 bin folder - https://winlibs.com (e.g. : %mingw64% = C:\gamedev\mingw64\bin)
 
 ## 2. Visual Studio Code

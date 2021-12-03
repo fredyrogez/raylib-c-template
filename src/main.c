@@ -1,4 +1,4 @@
-// Raylib Template C++17 64bits
+// Raylib Template C (C17 64 bits)
 //
 // MIT License - Copyright (C) 2021 Fredy Rogez
 // This file is subject to the terms and conditions defined in
